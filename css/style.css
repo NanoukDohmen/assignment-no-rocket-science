@@ -1,0 +1,15 @@
+#taart{
+    transform: translate(-160px,150px);
+    margin:100px 200px;
+}
+#taart ellipse{
+    stroke: yellow;
+    stroke-width: 2px;;
+}
+body{
+    background-image: url("../img/happy-sloth.jpg");
+    background-repeat: no-repeat;
+    background-size:500px 800px;
+    background-color: rgba(255,255,255,0.4);
+    background-blend-mode: lighten;
+}
